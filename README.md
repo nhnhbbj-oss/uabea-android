@@ -26,4 +26,4 @@ Unity Asset Bundle Extractor 的 Android 移植版。
 - 上游项目：[nesrak1/UABEA](https://github.com/nesrak1/UABEA)，Copyright (c) 2021 nesrak1，MIT License
 - 完整许可证文本见 [LICENSE](LICENSE)
 
-
+> 此仓库只发布构建产物。
