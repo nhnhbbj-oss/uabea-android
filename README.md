@@ -15,7 +15,15 @@ Unity Asset Bundle Extractor 的 Android 移植版。
 - 音频预览与替换（参考UABE）
 - 批量导入/导出贴图、音频
 - Mod 制作（.emip 补丁包）
-
+- 3d预览（Mesh）
+- 场景层级
+- 合并spilt后缀文件
+- 文件信息
+- 新增资产
+- 类型筛选
+- 搜索资产
+- 跳转资产
+  
 ## 下载
 
 从 [Releases](https://github.com/nhnhbbj-oss/uabea-android/releases) 页面下载最新 APK。
