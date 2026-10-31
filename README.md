@@ -9,15 +9,15 @@ Unity Asset Bundle Extractor 的 Android 移植版。
 
 ## 功能
 
-- 打开 AssetBundle / .assets 文件
+- 打开 AssetBundle / .assets 文件 / level文件 / .unity3d文件
 - 查看、编辑、导出、导入资产
-- 贴图预览与替换（支持大部分格式）
-- 音频预览与替换（参考UABE）
+- 贴图预览与替换（支持大部分格式,不支持:BC6H、PVRTC、EAC、YUY2、ETC_RGB4_3DS、ETC_RGBA8_3DS、RGBA64/RGB48）
+- 音频预览与替换（替换参考UABE的逻辑）
 - 批量导入/导出贴图、音频
 - Mod 制作（.emip 补丁包）
-- 3d预览（Mesh）
+- 3d预览（Mesh，可旋转）
 - 场景层级
-- 合并spilt后缀文件
+- 合并spilt后缀文件（.spilt0,.spilt1等，必须要选择.spilt0后缀的才会自动合并）
 - 文件信息
 - 新增资产
 - 类型筛选
